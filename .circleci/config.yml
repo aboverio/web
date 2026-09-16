@@ -2,7 +2,7 @@ version: 2.1
 
 orbs:
   gke: circleci/gcp-gke@2.3.0
-  gcr: circleci/gcp-gcr@0.16.12
+  gcr: circleci/gcp-gcr@0.17.0
 
 jobs:
   docker:
